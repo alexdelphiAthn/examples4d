@@ -119,4 +119,5 @@ app, registra las implementaciones:
 
 Probar el Motor: Pide al contenedor una instancia de TPriceCalculator
 y verifica que, al llamar a CalculateFinalPrice, se apliquen todos los
+
 descuentos registrados de forma automática.*)
